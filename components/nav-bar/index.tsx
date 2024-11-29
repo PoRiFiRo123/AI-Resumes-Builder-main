@@ -13,10 +13,10 @@ const NavBar = () => {
       {/* <div className="w-full flex items-center justify-center h-auto bg-black">
         <div className="max-w-6xl mx-auto py-2">
           <p className="text-white text-sm">
-            <b>Subcribe to the channel 🙏</b>! Boost your resume with CVbuild.ai
+            <b>Subcribe to the channel 🙏</b>! Boost your resume with Chitfund.ai
             Resume Course out{" "}
             <a className="inline-flex items-center gap-1 font-bold text-primary">
-              CVbuild.ai Course
+              Chitfund.ai Course
               <ExternalLink size="14px" />
             </a>
           </p>

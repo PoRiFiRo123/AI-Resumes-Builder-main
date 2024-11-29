@@ -42,7 +42,7 @@ const Header = () => {
                       text-primary
                           "
             >
-              CVbuild.ai
+              Chitfund.ai
             </Link>
           </div>
 

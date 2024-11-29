@@ -28,7 +28,7 @@ const Error = () => {
          text-[20px] text-primary"
         >
           {" "}
-          CVbuild.ai
+          Chitfund.ai
         </h5>
       </div>
     </div>
